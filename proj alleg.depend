@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523265649 source:c:\users\cw176144\desktop\proj alleg\main.c
+	<allegro.h>
+	<math.h>
+	<stdio.h>
+
